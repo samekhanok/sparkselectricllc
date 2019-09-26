@@ -28,7 +28,7 @@ An electrician in an apartment is like air or clean water: when everything works
 
 Electrical services in the apartmentWiring work in the apartment is the supply of electricity to each room and the connection of all appliances: both household and necessary for the normal functioning of the electricity network (for example, automation and meters).
 
-The main requirements that we make to the electricity network of the apartment:
+The main requirements that we make to the electricity network of the apartment:.
 
     Safety and reliability.
     A sufficient amount of electricity for the operation of all devices.
