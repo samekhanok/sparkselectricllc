@@ -26,7 +26,7 @@ Work in the apartment
 
 An electrician in an apartment is like air or clean water: when everything works as it should, we don’t pay attention to the power grid at all and don’t think about how it works. And only after the appearance of malfunctions, small or large, we understand: without electricity we are very uncomfortable. And we are looking for professional electricians.
 
-Electrical services in the apartmentWiring work in the apartment is the supply of electricity to each room and the connection of all appliances: both household and necessary for the normal functioning of the electricity network (for example, automation and meters).
+Electrical services in the apartmentWiring work in the apartment is the supply of electricity to each room and the connection of all appliances: both household and necessary for the normal functioning of the electricity network (for example, automation and meters)..
 
 The main requirements that we make to the electricity network of the apartment:.
 
